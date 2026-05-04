@@ -64,7 +64,7 @@ python train.py --dataset extracted_images --epochs 500 --batch_size 16 --image_
 - `--batch_size` — размер батча (по умолчанию 16)
 - `--image_size` — размер изображений (по умолчанию 64)
 - `--lr` — learning rate (по умолчанию 1e-4)
-- `--output_dir` — директория для результатов
+- `--output_dir` — директория для результатов (по умолчанию output)
 
 ### Генерация (DDPM)
 
